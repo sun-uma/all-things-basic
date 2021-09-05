@@ -1,6 +1,6 @@
 Base Converter is a program that takes input as a decimal number and prints the binary, octal and hexadecimal equivalent. It takes numbers with fractional parts as well.
 
-It is written in Python 3.8 and developed in PyCharm. It imports sys, math and string libraries. The time complexity is O(log n) for whole numbers where n is the decimal number. It is O(n) for fractional numbers where n is the length of the output fractional part.
+It is written in Python 3.8 and developed in PyCharm. It imports sys and math libraries. The time complexity is O(log n) for whole numbers where n is the decimal number. It is O(n) for fractional numbers where n is the length of the output fractional part.
 
 To run the program:
 

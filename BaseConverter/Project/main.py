@@ -1,9 +1,8 @@
 import math
-import string
 import sys
 
 
-def integer(n: int, b: int) -> string:
+def integer(n: int, b: int) -> str:
     if n < b:
         if n > 9:
             return str(mapping[n])
@@ -15,7 +14,7 @@ def integer(n: int, b: int) -> string:
     return integer(n // b, b) + str(mod)
 
 
-def fraction(n: float, b: int) -> string:
+def fraction(n: float, b: int) -> str:
     if n == 0:
         return '0'
     n = n * b
