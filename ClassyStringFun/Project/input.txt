@@ -1,0 +1,4 @@
+The above code is a short script to test 5 string methods.
+TestCase is used to create test cases by subclassing it. The
+last block of the code at the bottom allows us to run all
+the tests just by running the file. Refer to madam.

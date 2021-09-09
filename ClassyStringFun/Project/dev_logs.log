@@ -1,0 +1,13 @@
+INFO:root:File run by UMA from ADF ID 1829
+INFO:root:File Operations object created.
+INFO:root:Inside to prefix method.
+INFO:root:Inside ing suffix method.
+INFO:root:Inside max found method.
+INFO:root:Inside unique words method.
+INFO:root:Inside list palindrome method.
+INFO:root:Inside unique words method.
+INFO:root:Inside word dict method.
+INFO:root:Inside alter text method.
+INFO:root:Altered text done successfully
+INFO:root:Created contents list
+INFO:root:File Operations carried out successfully.

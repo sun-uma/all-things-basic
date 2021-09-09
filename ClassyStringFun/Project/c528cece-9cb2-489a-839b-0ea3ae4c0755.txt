@@ -1,0 +1,16 @@
+Number of strings with "to" prefix: 4
+
+Number of strings with "ing" suffix: 3
+
+Most common word: the
+
+Palindromes found: ['refer', 'madam']
+
+Unique Words present in the list: 
+['the', 'above', 'code', 'is', 'a', 'short', 'script', 'to', 'test', '5', 'string', 'methods', 'testcase', 'used', 'create', 'cases', 'by', 'subclassing', 'it', 'last', 'block', 'of', 'at', 'bottom', 'allows', 'us', 'run', 'all', 'tests', 'just', 'running', 'file', 'refer', 'madam']
+
+Dictionary of words: 
+{1: 'the', 2: 'above', 3: 'code', 4: 'is', 5: 'a', 6: 'short', 7: 'script', 8: 'to', 9: 'test', 10: '5', 11: 'string', 12: 'methods', 13: 'testcase', 14: 'is', 15: 'used', 16: 'to', 17: 'create', 18: 'test', 19: 'cases', 20: 'by', 21: 'subclassing', 22: 'it', 23: 'the', 24: 'last', 25: 'block', 26: 'of', 27: 'the', 28: 'code', 29: 'at', 30: 'the', 31: 'bottom', 32: 'allows', 33: 'us', 34: 'to', 35: 'run', 36: 'all', 37: 'the', 38: 'tests', 39: 'just', 40: 'by', 41: 'running', 42: 'the', 43: 'file', 44: 'refer', 45: 'to', 46: 'madam'}
+
+Altered text contents: Th---b-V--c-d---s---sh-RT-scR-pt-t--T-st-5-stR-ng-M-th-ds.-;T-stC-S---s--S-d-t--cr--t--t-st-C-s-s-by-s-BCL-ss-ng--t.-TH--;l-st-bl-CK--f-th--C-d---t-TH--b-tt-m--ll-ws--s-T--r-n--LL-;th--t-stS-J-st-by-r-nn-NG-th--f-l-.-R-f-r-t--m-d-m.-;
+
